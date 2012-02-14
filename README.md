@@ -1,10 +1,10 @@
 # Extended Google Maps
 
-A small set of helper functions augments some classes in Google Maps JavaScript API v3.
+A small set of helper functions that augments some classes in Google Maps JavaScript API v3.
 
 ## Augmented classes
     Number
-        toRad
+        toRadt
         toDeg
         
     google.maps.Map
@@ -20,7 +20,7 @@ A small set of helper functions augments some classes in Google Maps JavaScript 
 
 ### Basic Usage
 
-For examples, see the unit tests located in the test directory.
+For examples, see the unit tests located in the [test directory](https://github.com/jakubsynowiec/ext-google-maps/blob/master/test/ext.google.maps.test.js).
 
 ## License / Credits
 
